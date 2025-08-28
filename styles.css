@@ -284,6 +284,7 @@ justify-content: flex-start;
 
     .hero-content {
         justify-content: center;
+        height:90%;
     }
 
     .hero-container {
@@ -316,6 +317,7 @@ justify-content: flex-start;
     }
 
 }
+
 
 
 
