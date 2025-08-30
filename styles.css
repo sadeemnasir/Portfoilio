@@ -81,7 +81,7 @@ a {
 
 .hero {
     width: 100%;
-    height: 100vh;
+    height: 90vh;
 }
 
 .hero-container {
@@ -451,6 +451,12 @@ a {
 .skills-cards{
     grid-template-columns:1fr ;
 }
+.card-title{
+    font-size: 0.9rem;
+}
+.skill-names-sec{
+    font-size: 0.8rem;
+}
 }
 
 @media (max-width: 768px) {
@@ -473,4 +479,3 @@ a {
 
     }
 }
-
